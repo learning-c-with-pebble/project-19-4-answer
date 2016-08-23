@@ -3,8 +3,6 @@
 // Project 19.4 from "Programming Pebble in C"
 // 
 // Johannes Neubrand, August 2016
-//
-// inspired by http://www.how-to-draw-funny-cartoons.com/how-to-draw-a-husky.html
 
 #include <pebble.h>
 
